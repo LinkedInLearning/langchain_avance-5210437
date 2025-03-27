@@ -6,10 +6,6 @@ Ce dossier Repository est lié au cours `LangChain : Niveau avancé`. Le cours e
 
 Cette formation avancée est destinée aux experts en intelligence artificielle et aux développeurs IA souhaitant maîtriser l’intégration des grands modèles de langage (LLM) avec les données internes d’une organisation, à l’aide de LangChain et LangGraph. À travers un parcours structuré, vous développerez différents types d'agents. Chaque phase vous permettra d’enrichir et d’optimiser vos connaissances grâce à des outils et stratégies adaptés. Animée par Madjid Khichane, cette formation vous accompagnera dans la création d’applications puissantes et personnalisées exploitant pleinement les capacités des LLM et de LangGraph pour répondre aux besoins spécifiques de votre organisation.	
 
-## Instructions
-
-Ce dossier Repository contient les fichiers d'exemples de code abordés dans cette formation. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
-
 
 ## Installation
 
