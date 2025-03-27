@@ -19,7 +19,7 @@ Ce dossier Repository contient les fichiers d'exemples de code abordés dans cet
    - Créer un environnement virtuel python avec python -m venv [NOM_DE_VOTRE_VENV]
    - Installer les requirements  
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+
 
 
 ### Formateur
