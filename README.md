@@ -28,7 +28,7 @@ Ce dossier Repository contient les fichiers d'exemples de code abordés dans cet
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+ 
 [https://www.linkedin.com](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=khichane&language=fr_FR)
  
 
