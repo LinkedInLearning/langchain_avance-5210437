@@ -1,6 +1,6 @@
-# LangChain : Niveau avancé
+# LangChain et LangGraph : Niveau avancé
 
-Ce dossier Repository est lié au cours `LangChain : Niveau avancé`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `LangChain et LangGraph : Niveau avancé`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
