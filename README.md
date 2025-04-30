@@ -25,7 +25,7 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGQe7f6_MVD2w/learning-public-crop_675_1200/B4DZaFrQpxH4AY-/0/1745999433109?e=2147483647&v=beta&t=mhq1MjvELCA_unxnbG4gwfNxTRiX5RYm9TETZ0KfmvU
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
 
 [1]: # (End of FR-Instruction ###############################################################################################)
