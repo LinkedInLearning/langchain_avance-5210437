@@ -12,9 +12,9 @@ Cette formation avancée est destinée aux experts en intelligence artificielle 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - VSCode
    - Interpréteur python
-   - Créer un environnement virtuel python avec python -m venv [NOM_DE_VOTRE_VENV]
+   - Créer un environnement virtuel Python avec Python -m venv [NOM_DE_VOTRE_VENV]
    - Installer les requirements  
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree 
+2. Clonez ce dossier repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree 
 
 
 ### Formateur
